@@ -1,0 +1,11 @@
+.form {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 20px;
+  width: 80%;
+  margin: 0 auto;
+}
+.selectCountry {
+  width: 200px;
+  outline: none;
+}
